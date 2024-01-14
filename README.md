@@ -4,7 +4,7 @@
 
 ## Main logic of generating triangle is as follows
 
-``
+```
 function generatePascalsTriangle(rows) {
   const triangle = [];
   if (rows > 16) {
@@ -24,4 +24,4 @@ function generatePascalsTriangle(rows) {
   }
   return triangle;
 }
-``
+```
