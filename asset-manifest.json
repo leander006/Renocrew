@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Renocrew/static/css/main.5e858ef2.css",
+    "main.js": "/Renocrew/static/js/main.a0dd92f7.js",
+    "index.html": "/Renocrew/index.html",
+    "main.5e858ef2.css.map": "/Renocrew/static/css/main.5e858ef2.css.map",
+    "main.a0dd92f7.js.map": "/Renocrew/static/js/main.a0dd92f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e858ef2.css",
+    "static/js/main.a0dd92f7.js"
+  ]
+}
